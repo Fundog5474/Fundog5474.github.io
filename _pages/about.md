@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a student at [University of Houston](cs.uh.edu) studying for my bachelors. I want to be a game developer. I want to make different types of games from first person shooters to open world RPGs. I want to get better at using game engines and hopefully make a game I can be proud of and people can enjoy.
 
-[My Linkedln](https://www.linkedin.com/in/son-nguyen-410505348/)
+[Linkedln](https://www.linkedin.com/in/son-nguyen-410505348/)
 
 [Resume](/images/Resume.pdf)
 
