@@ -18,6 +18,6 @@ I am currently a student at [university of houston](cs.uh.edu) studying for my b
 
 Education
 =========
-I currently know c++, html, css, javascript, and a bit of python.
+I currently know c++, html, css, javascript, and a bit of python. c++ is currently my main language.
 
 
