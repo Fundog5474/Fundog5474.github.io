@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Son Nguyen"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Son Nguyen"
+description              : &description "Student"
 url                      : https://fundog5474.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
