@@ -9,3 +9,7 @@ redirect_from:
 
 
 I am currently a student at [university of houston](cs.uh.edu) studying for my bachelors. I want to be a game developer. I want to make diffrent type of games from first person shooters to open world rpgs. I want to get better at using game engines.
+
+Education
+=========
+I currently know c++, html, css, javascript, and a bit of python.
