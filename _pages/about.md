@@ -12,8 +12,7 @@ I am currently a student at [university of houston](cs.uh.edu) studying for my b
 
 [My Linkedln](https://www.linkedin.com/in/son-nguyen-410505348/)
 
-Resume
-![Resume](/images/Resume.pdf)
+[Resume](/images/Resume.pdf)
 
 
 
