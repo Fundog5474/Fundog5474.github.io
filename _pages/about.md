@@ -12,7 +12,7 @@ I am currently a student at [University of Houston](https://www.uh.edu/nsm/compu
 
 [Linkedln](https://www.linkedin.com/in/son-nguyen-410505348/)
 
-[Resume](/images/Resume.pdf)
+[Resume](/images/Objectiv1.pdf)
 
 
 Education
